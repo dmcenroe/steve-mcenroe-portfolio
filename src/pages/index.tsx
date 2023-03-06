@@ -44,7 +44,7 @@ export default function Home() {
 
               <p className="testDiv text-slate-800 font-mont font-md text-lg">
                 {
-                  "With over 20 years of experience in information technology, information security testing, audit, and compliance, I have the technical skills and strategic mindset to help companies achieve their GRC goals. Outside of work, I enjoy staying up-to-date on the latest trends in cybersecurity and exploring new technologies."
+                  "With over 20 years of experience in information technology, information security testing, audit, and compliance, I have the technical skills and strategic mindset to help companies achieve their GRC goals."
                 }
               </p>
             </div>

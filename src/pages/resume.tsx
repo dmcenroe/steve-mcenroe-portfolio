@@ -50,7 +50,7 @@ export default function Resume() {
             In my current role as an Independent GRC Consultant, I work with
             clients in pre-assessment engagements to document policies and
             procedures that align with best practices and industry recognized
-            frameworks, identify and provide guidance on closing gaps
+            frameworks, identify and provide guidance on closing gaps and help
             operationalize their Information Security Management Programs.
           </p>
         </div>

@@ -13,8 +13,8 @@ export default function Services() {
             Compliance assessments
           </span>
           <span className="font-light">
-            Identify your company's compliance status by conducting assessments
-            to evaluate your adherence to industry-specific regulations such as
+            Review your company's compliance status by conducting assessments to
+            evaluate your adherence to industry-specific regulations such as
             PCI, HIPAA, HITRUST, SOC, and ISO 27002.
           </span>
         </div>
@@ -26,7 +26,7 @@ export default function Services() {
             Gap analysis & remediation
           </span>
           <span className="font-light">
-            Identify gaps in your information security management programs and
+            Review gaps in your information security management programs and
             provide guidance on how to remediate these gaps in a timely and
             cost-effective manner.
           </span>
@@ -66,8 +66,8 @@ export default function Services() {
             Business continuity planning & disaster recovery
           </span>
           <span className="font-light">
-            Assist with the development and implement business continuity and
-            disaster recovery plans to ensure that your organization can
+            Assist with the development and implementation business continuity
+            and disaster recovery plans to ensure that your organization can
             continue to operate in the event of a disruption or disaster.
           </span>
         </div>
