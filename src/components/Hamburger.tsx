@@ -17,12 +17,12 @@ export default function Hamburber() {
         </div>
         <Link
           href="/"
-          className="text-2xl font-bold tracking-tighter text-white ml-auto flex flex-row items-center"
+          className="text-2xl gap-1 font-bold tracking-tighter text-white ml-auto flex flex-row items-center"
         >
           <span className="material-symbols-outlined material-icons md-24 text-teal-600 group-hover:animate-pulse group-hover:mb-px">
-            flash_on
+            vpn_lock
           </span>
-          <p>DM</p>
+          <p>SM</p>
         </Link>
 
         <div className={isNavOpen ? "showMenuNav" : "hideMenuNav"}>
