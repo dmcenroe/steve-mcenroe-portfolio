@@ -29,11 +29,12 @@ export default function Home() {
 
             <p className="text-slate-800 font-mont font-light text-4xl mb-4">
               <span>{"I'm "}</span>
-              <span className="font-bold">{"Steve McEnroe"}</span>
-              {
-                ", an experienced Information Security & Complainace Professional."
-              }
+              <span className="font-bold">{"Steve McEnroe, "}</span>
+              <span className="text-3xl italic">
+                an experienced Information Security & Complainace Professional.
+              </span>
             </p>
+
             <div className="flex flex-col gap-4">
               <p className="testDiv text-slate-800 font-mont font-md text-lg">
                 {
