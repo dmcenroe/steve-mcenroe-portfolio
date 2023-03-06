@@ -76,7 +76,7 @@ export default function Services() {
             query_stats
           </span>
           <span className="font-semibold uppercase text-2xl">
-            GRC program management{" "}
+            GRC program management
           </span>
           <span className="font-light">
             Provide overall management and oversight of your GRC program,
